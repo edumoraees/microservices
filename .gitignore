@@ -1,0 +1,29 @@
+# Maven
+target/
+**/target/
+
+# Eclipse / arquivos compilados
+bin/
+**/bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Ferramentas auxiliares
+.github/modernize/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
